@@ -1,8 +1,8 @@
-Image Processing Project
-Description
+# Image Processing Project
+# Description
 The Final_Project is an image processing application developed in MATLAB, designed to provide users with a comprehensive set of tools for manipulating and analyzing images. This project aims to facilitate learning and experimentation with various image processing techniques through an intuitive graphical user interface (GUI).
 
-Features
+# Features
 1. Image Loading and Display
 File Selection: Users can easily load JPEG images from their local filesystem using a file selection dialog.
 Dynamic Display: Loaded images are displayed in designated axes within the GUI, allowing for immediate visual feedback.
@@ -30,6 +30,6 @@ Gaussian Noise: Users can add Gaussian noise to images for testing purposes, all
 11. User-Friendly Interface
 Intuitive Layout: The GUI is designed for ease of use, with clear labels and instructions for each feature.
 Real-Time Feedback: Changes are immediately reflected in the GUI, enabling users to see the effects of their adjustments in real time.
-Conclusion
+# Conclusion
 The Final_Project is an educational and practical tool for anyone interested in learning about image processing. With its diverse set of features, users can explore fundamental concepts and techniques, enhancing their understanding of how various image processing methods affect visual data. This project serves as an excellent resource for both beginners and advanced users in the field of image processing.
 
