@@ -1,4 +1,4 @@
-Image Processing Project: Final_Project
+Image Processing Project
 Description
 The Final_Project is an image processing application developed in MATLAB, designed to provide users with a comprehensive set of tools for manipulating and analyzing images. This project aims to facilitate learning and experimentation with various image processing techniques through an intuitive graphical user interface (GUI).
 
